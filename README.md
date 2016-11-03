@@ -1,6 +1,9 @@
 # RubySCCs
 Calculate strongly connected components on big directed graph (5 million edges) using Kosaraju’s Two-Pass Algorithm
 
+#### Start from `CalculateSCC.rb`
+
+
 > Graph data is in file `_SCC.txt`. It containce 5,105,043 edges and 875,714 verticies.
 
 > Algorithm calculates SCCs and finds 5 lagrest from them. The correct answer is: 434821,968,459,313,211
